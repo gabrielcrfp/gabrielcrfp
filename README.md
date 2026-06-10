@@ -38,8 +38,8 @@ Aqui estão algumas das tecnologias com as quais tenho contato e pratico diariam
 ### 📬 Vamos nos conectar?
 Se quiser trocar uma ideia sobre tecnologia, segurança ou acompanhar meus projetos de estudo:
 
-* 💼 **LinkedIn:** [Acesse meu perfil profissional](https://linkedin.com/in/[SEU_LINK_DO_LINKEDIN])
-* 📧 **E-mail:** [seu.email@email.com]
+* 💼 **LinkedIn:** [Acesse meu perfil profissional](https://linkedin.com/in/www.linkedin.com/in/gabriel-cassemiro-cyber)
+* 📧 **E-mail:** [gcassemiro92@gmail.com]
 
 ---
 *“A melhor defesa é entender o ataque.”* 🛡️
