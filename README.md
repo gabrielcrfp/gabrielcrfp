@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel Cassemiro! 👋
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1510511459019-5dda7724fd87?q=80&w=1200&auto=format&fit=crop" alt="Cibersegurança e Tecnologia" width="100%" height="250" style="object-fit: cover; border-radius: 8px;" />
+  <img src="https://i.pinimg.com/originals/90/4c/e3/904ce3f73eaccd9875e849522e5e2744.gif" alt="Cibersegurança e Tecnologia" width="100%" height="250" style="object-fit: cover; border-radius: 8px;" />
 </p>
 
 ##  Entusiasta de Cibersegurança | Estudante de TI
