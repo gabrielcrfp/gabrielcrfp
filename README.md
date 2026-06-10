@@ -4,7 +4,7 @@
   <img src="https://images.unsplash.com/photo-1510511459019-5dda7724fd87?q=80&w=1200&auto=format&fit=crop" alt="Cibersegurança e Tecnologia" width="100%" height="250" style="object-fit: cover; border-radius: 8px;" />
 </p>
 
-## 🛡️ Entusiasta de Cibersegurança | Estudante de TI
+##  Entusiasta de Cibersegurança | Estudante de TI
 
 Sou apaixonado por segurança ofensiva e defensiva, com foco atual na compreensão aprofundada de sistemas e redes para fortalecer posturas de segurança. Acredito na prática constante como chave para o aprendizado em TI.
 
@@ -18,7 +18,7 @@ Sou apaixonado por segurança ofensiva e defensiva, com foco atual na compreens�
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas:
+###  Tecnologias e Ferramentas:
 Aqui estão algumas das tecnologias com as quais tenho contato e pratico diariamente:
 
 <p align="left">
@@ -36,6 +36,3 @@ Aqui estão algumas das tecnologias com as quais tenho contato e pratico diariam
 
 * 💼 **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/gabriel-cassemiro-cyber)
 * 📧 **E-mail:** [gcassemiro92@gmail.com](mailto:gcassemiro92@gmail.com)
-
----
-*“A melhor defesa é entender o ataque.”* 🛡️
