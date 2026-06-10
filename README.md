@@ -1,16 +1,20 @@
-# Olá, eu sou o Gabriel cassemiro, Prazer
+# Olá, eu sou o Gabriel Cassemiro! 👋
 
-##  Entusiasta de Cibersegurança & Estudante de TI
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1510511459019-5dda7724fd87?q=80&w=1200&auto=format&fit=crop" alt="Cibersegurança e Tecnologia" width="100%" height="250" style="object-fit: cover; border-radius: 8px;" />
+</p>
 
-Sou apaixonado por tecnologia e atualmente estou focando meus estudos na área de **Segurança da Informação (Cibersegurança)**. Acredito que para defender um sistema de forma eficiente, precisamos entender como ele é construído. Por isso, estou desenvolvendo uma base sólida em sistemas operacionais, automação e desenvolvimento web.
+## 🛡️ Entusiasta de Cibersegurança | Estudante de TI
+
+Sou apaixonado por segurança ofensiva e defensiva, com foco atual na compreensão aprofundada de sistemas e redes para fortalecer posturas de segurança. Acredito na prática constante como chave para o aprendizado em TI.
 
 ---
 
-###  No que estou focando meus estudos atualmente:
--  **Linux:** Aprendendo administração de sistemas, comandos de terminal e segurança no ecossistema Linux.
--  **Python:** Desenvolvendo scripts automatizados, lógica de programação e ferramentas simples de rede (como Port Scanners).
--  **Web Basics:** Conhecimento em HTML5, CSS3 e JavaScript (possuo certificação *JS Essentials 1* da Cisco).
--  **Prática:** Resolvendo desafios e laboratórios em plataformas como TryHackMe.
+### 💻 Foco de Estudos Atual:
+- 🐧 **Sistemas Operacionais:** Administração e segurança em ambientes Linux.
+- 🐍 **Automação:** Desenvolvimento de scripts em Python para redes e segurança.
+- 🌐 **Web App Security:** Compreensão de vulnerabilidades através de bases em HTML, CSS e JavaScript.
+- 🛡️ **Redes:** Protocolos fundamentais e análise de tráfego.
 
 ---
 
@@ -28,18 +32,10 @@ Aqui estão algumas das tecnologias com as quais tenho contato e pratico diariam
 
 ---
 
-### 📈 Estatísticas do GitHub:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME_AQUI]&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
-</p>
-
----
-
 ### 📬 Vamos nos conectar?
-Se quiser trocar uma ideia sobre tecnologia, segurança ou acompanhar meus projetos de estudo:
 
-* 💼 **LinkedIn:** [Acesse meu perfil profissional](https://linkedin.com/in/www.linkedin.com/in/gabriel-cassemiro-cyber)
-* 📧 **E-mail:** [gcassemiro92@gmail.com]
+* 💼 **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/gabriel-cassemiro-cyber)
+* 📧 **E-mail:** [gcassemiro92@gmail.com](mailto:gcassemiro92@gmail.com)
 
 ---
 *“A melhor defesa é entender o ataque.”* 🛡️
